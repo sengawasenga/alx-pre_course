@@ -1,1 +1,3 @@
-My first readme
+# ALX PRE COURSE
+
+I'm learning git in ALX
